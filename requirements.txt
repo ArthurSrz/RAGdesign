@@ -1,0 +1,17 @@
+llama-index
+llama-index-readers-obsidian
+ipywidgets
+tqdm
+ipython
+huggingface-hub
+openai
+pyyaml
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface-api
+ipykernel
+pyvis
+python-dotenv
+#pandas==2.2.1
+#numpy==1.26.4
